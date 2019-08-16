@@ -1,0 +1,22 @@
+# Site
+name: Advance Manufacturing System
+title: Advance Manufacturing System
+description: Advance Manufacturing System
+meta_description: Advance Manufacturing System
+logo: 'assets/images/logo.jpg'
+paginate: 12
+baseurl: ''
+email: ''
+disqus: 'demowebsite'
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Other
+markdown: kramdown
+highlighter: rouge
