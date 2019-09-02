@@ -167,10 +167,9 @@ section.recent-posts {
 	flex:0 0 auto;
 }
 .listfeaturedtag .card {
-	border-radius:2px;
-	height:260px;
-	padding-left:0;
-	margin-bottom:15px;
+  border-radius: 5px;
+  height: 280px;
+  padding-left: 30px;
 }
 .listfeaturedtag .thumbnail {
 	background-size:cover;
@@ -514,9 +513,8 @@ blockquote {
 }
 .card {
 	border-radius:4px;
-    margin-bottom: 30px;
-    box-shadow:0 0px 1px 0 rgba(0, 0, 0, 0.14);
-    border:0;
+  margin-bottom: 30px;
+  box-shadow: 0 10px 5px 0 rgba(0, 0, 0, 0.14);
 }
 .card .img-thumb {
 	border-top-right-radius:4px;
